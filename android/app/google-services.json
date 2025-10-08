@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558728977341",
+    "project_id": "arfire-fe173",
+    "storage_bucket": "arfire-fe173.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558728977341:android:adfa5f1d809c08a46510d4",
+        "android_client_info": {
+          "package_name": "com.example.ar_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyO00jSLAKsdzFhqxFauxRq-xIVvUYKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
