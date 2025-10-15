@@ -7,10 +7,11 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![AR](https://img.shields.io/badge/AR-Enabled-FF6B6B?style=for-the-badge&logo=google&logoColor=white)](https://arcore.google.com)
+[![Patent](https://img.shields.io/badge/Patent-460608--001-gold?style=for-the-badge&logo=award&logoColor=white)](#-patent-recognition)
 
 **See products in your space before you buy. Make confident purchasing decisions with AR technology.**
 
-[🚀 Demo](#-screenshots) • [✨ Features](#-key-features) • [📱 Install](#-quick-start) • [🤝 Contribute](#-contributing)
+[🏆 Patent](#-patent-recognition) • [🚀 Demo](#-screenshots) • [✨ Features](#-key-features) • [📱 Install](#-quick-start) • [🤝 Contribute](#-contributing)
 
 ---
 
@@ -19,6 +20,54 @@
 ## 💡 What is AR-CART?
 
 AR-CART transforms online shopping with **Augmented Reality**. Visualize furniture in your living room, try out décor items, and explore products in 3D before buying. Built with Flutter for a seamless cross-platform experience.
+
+---
+
+## 🏆 Patent Recognition
+
+<div align="center">
+
+### 🎖️ Officially Patented Innovation
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Design Registration Certificate**
+
+![Patent Certificate](screenshots/patent.png)
+
+</td>
+<td align="left" width="50%">
+
+### **Patent Details**
+
+📋 **Design No:** 460608-001  
+📅 **Registration Date:** 29/05/2025  
+🏛️ **Authority:** Patent Office, Government of India  
+📂 **Class:** 14-02  
+⏳ **Valid Until:** 29/05/2035
+
+**Innovation:** *AR-Based Device for Reality Shopping*
+
+**Inventors:**  
+- St. John College of Engineering and Management
+- Pooja Patil
+- Dr. Nilesh Deotale
+- Dhanashree Jagadish Chaudhari
+- Hardika Rajendra Patil
+- Rohit Nilesh Lokhande
+- Harshvardhan Ramvilas Gupta
+
+</td>
+</tr>
+</table>
+
+*Protected under the Designs Act, 2000 and Designs Rules, 2001*
+
+</div>
+
+---
 
 ## ✨ Key Features
 
@@ -113,7 +162,7 @@ AR-CART/
 ├── 🎨 assets/
 │   ├── images/           # App Images
 │   └── models/           # 3D AR Models
-└── 📸 screenshots/       # App Screenshots
+└── 📸 screenshots/       # App Screenshots & Patent Certificate
 ```
 
 ## 🎯 How It Works
@@ -126,19 +175,6 @@ graph LR
     D --> E[🎯 Place in Space]
     E --> F[✅ Make Decision]
     F --> G[🛒 Purchase]
-```
-
-## 📸 Adding Screenshots
-
-Create a `screenshots` folder and add your images:
-
-```bash
-screenshots/
-├── welcome.png
-├── signup.png
-├── home.png
-├── products.png
-└── product_detail.png
 ```
 
 ## 🤝 Contributing
@@ -157,6 +193,7 @@ Contributions make the open-source community amazing!
 - [x] 🔐 User Authentication
 - [x] 📦 AR Product View
 - [x] 🛒 Shopping Cart
+- [x] 🏆 Patent Registration
 - [ ] 💳 Payment Integration
 - [ ] 📱 Push Notifications
 - [ ] 🌐 Multi-language Support
@@ -166,11 +203,22 @@ Contributions make the open-source community amazing!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👨‍💻 Author
+**Patent:** Design No. 460608-001 © 2025 Government of India
+
+## 👨‍💻 Author & Team
 
 <div align="center">
 
-**Rohit**
+**Lead Developer: Rohit Nilesh Lokhande**
+
+**Academic Partner:** St. John College of Engineering and Management
+
+**Team Members:**
+- Pooja Patil
+- Dr. Nilesh Deotale  
+- Dhanashree Jagadish Chaudhari
+- Hardika Rajendra Patil
+- Harshvardhan Ramvilas Gupta
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit6168)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-kappa-vert-30.vercel.app/)
@@ -192,5 +240,7 @@ Give a ⭐️ if this project helped you!
 **Made with ❤️ and AR Technology**
 
 *Transform Your Shopping Experience* 🚀
+
+**🏆 Patented Innovation | Government of India Certified**
 
 </div>
