@@ -11,7 +11,7 @@
 
 **See products in your space before you buy. Make confident purchasing decisions with AR technology.**
 
-[🏆 Patent](#-patent-recognition) • [🚀 Demo](#-screenshots) • [✨ Features](#-key-features) • [📱 Install](#-quick-start) • [🤝 Contribute](#-contributing)
+[🏆 Patent](#-patent-recognition) • [🚀 Demo](https://arcart.vercel.app/) • [✨ Features](#-key-features) • [📱 Install](#-quick-start) • [🤝 Contribute](#-contributing)
 
 ---
 
